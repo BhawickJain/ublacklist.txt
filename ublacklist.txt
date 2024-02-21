@@ -1,0 +1,9 @@
+# coding
+*://*.geeksforgeeks.org/*
+*://*.programiz.com/*
+*://www.runoob.com/*
+*://www.javatpoint.com/*
+*://qiita.com/*
+*://www.educba.com/*
+*://www.w3schools.com/*
+*://www.tutorialspoint.com/*
